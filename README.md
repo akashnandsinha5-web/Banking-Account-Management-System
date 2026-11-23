@@ -32,7 +32,7 @@ BankAccountManagement/
 └── README.md
 
 
-## 💻 OOP Concepts Implemented
+##  OOP Concepts Implemented
 
 | Concept | Description |
 |---|---|
